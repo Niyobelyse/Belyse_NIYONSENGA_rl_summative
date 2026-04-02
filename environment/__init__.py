@@ -1,1 +1,0 @@
-"""NCD Prevention Environment Package"""
